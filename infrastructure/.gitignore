@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+.venv/
+cdk.out/
+cdk.context.json
+.cdk.staging/
